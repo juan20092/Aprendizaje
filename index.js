@@ -17,12 +17,12 @@ const { name, description, author, version } = require(join(__dirname, './packag
 const { say } = cfonts;
 const rl = createInterface(process.stdin, process.stdout);
 
-say('Shadow\nUltra', {
+say('VIP\nBOT', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
 });
-say('Created by Criss Escobar', {
+say('Created by juan', {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
